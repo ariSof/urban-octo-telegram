@@ -19,6 +19,6 @@ The navigation links will take you to the proper section and all img elements ha
 
 Sofia Villalpando
 
-## Licence
+## License
 
 None
