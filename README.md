@@ -10,8 +10,15 @@ N/A
 
 ## Usage
 
-The navigation links will take you to the proper section and all img elements have alt attributes. Resize window or look at site in a different devices to check for accessibility.
+The navigation links will take you to the proper section and all img elements have alt attributes. Screenshot attached:
+
+![The page looks the same as it was provided](./assets/images/horiseonScreenshot.png)
+
 
 ## Credits
 
-N/A
+Sofia Villalpando
+
+## Licence
+
+None

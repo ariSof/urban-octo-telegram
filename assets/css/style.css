@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* Element selectors */
 body {
     background-color: #d9dcd6;
 }
 
+/* header and navbar css */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,12 +48,14 @@ a {
     text-decoration: none;
 }
 
+/* Main section with two parts */
 main {
     display: flex;
     flex-wrap: wrap;
     padding-top: 20px;
 }
 
+/* Main section part shown on the left */
 section { 
     width: 75%;
     margin-left: 20px;
@@ -80,6 +84,7 @@ h2 {
     font-size: 36px;
 }
 
+/* Main section side part shown on the right */
 aside { 
     margin-right: 20px;
     padding: 20px;
@@ -118,6 +123,7 @@ footer h2 {
     font-size: 20px;
 }
 
+/* Class selectors */
 .hero {
     width: 100%;
 }
